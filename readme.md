@@ -5,7 +5,7 @@
     <img src="./src/img/logo.png" alt="Logo" width="100%" height="100%">
   </a>
 
-  <h3 align="center">Minty</h3>
+  <h3 align="center">Minty the receipe app</h3>
 
   <p align="center">
     A recipe search application made with javascript.
